@@ -348,39 +348,39 @@ export default {
             options: [
 			  {
                 label: "自建无自动测速多地区流媒体适配",
-                value: "https://raw.githubusercontent.com/netshowers/flying/refs/heads/main/myclash_nourltest.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/netshowers/flying/refs/heads/main/myclash_nourltest.ini"
               },
               {
                 label: "自建部分自动测速多地区流媒体适配",
-                value: "https://raw.githubusercontent.com/netshowers/flying/refs/heads/main/myclash.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/netshowers/flying/refs/heads/main/myclash.ini"
               },
               {
                 label: "自建全自动测速多地区流媒体适配",
-                value: "https://raw.githubusercontent.com/netshowers/flying/refs/heads/main/myclash_fulltest.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/netshowers/flying/refs/heads/main/myclash_fulltest.ini"
               },
               {
                 label: "CM_Online_MultiCountry 识别港美地区 负载均衡(与Github同步)",
-                value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"
               },
               {
                 label: "CM_Online_MultiCountry_CF 识别港美地区、CloudFlareCDN 负载均衡 Worker节点专用(与Github同步)",
-                value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry_CF.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry_CF.ini"
               },
               {
                 label: "CM_Online_Full 识别多地区分组(与Github同步)",
-                value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full.ini"
               },
               {
                 label: "CM_Online_Full_CF 识别多地区、CloudFlareCDN 分组 Worker节点专用(与Github同步)",
-                value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_CF.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_CF.ini"
               },
               {
                 label: "CM_Online_Full_MultiMode 识别多地区 负载均衡(与Github同步)",
-                value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
               },
               {
                 label: "CM_Online_Full_MultiMode_CF 识别多地区、CloudFlareCDN 负载均衡 Worker节点专用(与Github同步)",
-                value: "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode_CF.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode_CF.ini"
               }
             ]
           },
@@ -389,15 +389,15 @@ export default {
             options: [
               {
                 label: "默认",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_NoAuto.ini"
               },
               {
                 label: "默认（自动测速）",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_AdblockPlus.ini"
               },
               {
                 label: "默认（索尼电视专用）",
-                value: "https://raw.githubusercontent.com/youshandefeiyang/webcdn/main/SONY.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/youshandefeiyang/webcdn/main/SONY.ini"
               },
               {
                 label: "默认（附带用于 Clash 的 AdGuard DNS）",
@@ -405,19 +405,19 @@ export default {
               },
               {
                 label: "ACL_全分组 Dream修改版",
-                value: "https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Online_Full_Dream.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Online_Full_Dream.ini"
               },
               {
                 label: "ACL_精简分组 Dream修改版",
-                value: "https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Mini_Dream.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Mini_Dream.ini"
               },
               {
                 label: "emby-TikTok-流媒体分组-去广告加强版",
-                value: "https://raw.githubusercontent.com/justdoiting/ClashRule/main/GeneralClashRule.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/justdoiting/ClashRule/main/GeneralClashRule.ini"
               },
               {
                 label: "流媒体通用分组",
-                value: "https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini"
               }
             ]
           },
@@ -426,63 +426,63 @@ export default {
             options: [
               {
                 label: "ACL_默认版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
               },
               {
                 label: "ACL_无测速版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
               },
               {
                 label: "ACL_去广告版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_AdblockPlus.ini"
               },
               {
                 label: "ACL_多国家版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_MultiCountry.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_MultiCountry.ini"
               },
               {
                 label: "ACL_无Reject版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoReject.ini"
               },
               {
                 label: "ACL_无测速精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_NoAuto.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_NoAuto.ini"
               },
               {
                 label: "ACL_全分组版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini"
               },
               {
                 label: "ACL_全分组谷歌版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Google.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Google.ini"
               },
               {
                 label: "ACL_全分组多模式版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
               },
               {
                 label: "ACL_全分组奈飞版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini"
               },
               {
                 label: "ACL_精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"
               },
               {
                 label: "ACL_去广告精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_AdblockPlus.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_AdblockPlus.ini"
               },
               {
                 label: "ACL_Fallback精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_Fallback.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_Fallback.ini"
               },
               {
                 label: "ACL_多国家精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiCountry.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiCountry.ini"
               },
               {
                 label: "ACL_多模式精简版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini"
               }
             ]
           },
@@ -491,11 +491,11 @@ export default {
             options: [
               {
                 label: "常规规则",
-                value: "https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG.ini"
               },
               {
                 label: "酷酷自用",
-                value: "https://raw.githubusercontent.com/xiaoshenxian233/cool/rule/complex.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/xiaoshenxian233/cool/rule/complex.ini"
               },
               {
                 label: "PharosPro无测速",
@@ -504,31 +504,31 @@ export default {
               },
               {
                 label: "分区域故障转移",
-                value: "https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_Fallback.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_Fallback.ini"
               },
               {
                 label: "分区域自动测速",
-                value: "https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_Urltest.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_Urltest.ini"
               },
               {
                 label: "分区域无自动测速",
-                value: "https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_NoAuto.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rule_config/ZHANG_Area_NoAuto.ini"
               },
               {
                 label: "OoHHHHHHH",
-                value: "https://raw.githubusercontent.com/OoHHHHHHH/ini/master/config.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/OoHHHHHHH/ini/master/config.ini"
               },
               {
                 label: "CFW-TAP",
-                value: "https://raw.githubusercontent.com/OoHHHHHHH/ini/master/cfw-tap.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/OoHHHHHHH/ini/master/cfw-tap.ini"
               },
               {
                 label: "lhl77全分组（定期更新）",
-                value: "https://raw.githubusercontent.com/lhl77/sub-ini/main/tsutsu-full.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/lhl77/sub-ini/main/tsutsu-full.ini"
               },
               {
                 label: "lhl77简易版（定期更新）",
-                value: "https://raw.githubusercontent.com/lhl77/sub-ini/main/tsutsu-mini-gfw.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/lhl77/sub-ini/main/tsutsu-mini-gfw.ini"
               },
               {
                 label: "ConnersHua 神机规则 Outbound",
@@ -584,11 +584,11 @@ export default {
               },
               {
                 label: "品云专属配置（仅香港区域分组）",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Examine.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Examine.ini"
               },
               {
                 label: "品云专属配置（全地域分组）",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Examine_Full.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Examine_Full.ini"
               },
               {
                 label: "nzw9314 规则",
@@ -695,7 +695,7 @@ export default {
               },
               {
                 label: "咸鱼",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/xianyu.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/xianyu.ini"
               },
               {
                 label: "便利店",
@@ -703,27 +703,27 @@ export default {
               },
               {
                 label: "CNIX",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/SSRcloud.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/SSRcloud.ini"
               },
               {
                 label: "Nirvana",
-                value: "https://raw.githubusercontent.com/Mazetsz/ACL4SSR/master/Clash/config/V2rayPro.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/Mazetsz/ACL4SSR/master/Clash/config/V2rayPro.ini"
               },
               {
                 label: "V2Pro",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/V2Pro.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/V2Pro.ini"
               },
               {
                 label: "史迪仔-自动测速",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Stitch.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Stitch.ini"
               },
               {
                 label: "史迪仔-负载均衡",
-                value: "https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Stitch-Balance.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/Mazeorz/airports/master/Clash/Stitch-Balance.ini"
               },
               {
                 label: "Maying",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/maying.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/maying.ini"
               },
               {
                 label: "Ytoo",
@@ -735,7 +735,7 @@ export default {
               },
               {
                 label: "NyanCAT",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/nyancat.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/nyancat.ini"
               },
               {
                 label: "Nexitally",
@@ -743,11 +743,11 @@ export default {
               },
               {
                 label: "SoCloud",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/socloud.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/socloud.ini"
               },
               {
                 label: "ARK",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/ark.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/customized/ark.ini"
               },
               {
                 label: "N3RO",
@@ -768,17 +768,17 @@ export default {
             options: [
               {
                 label: "NeteaseUnblock",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/netease.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/netease.ini"
               },
               {
                 label: "Basic",
-                value: "https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/basic.ini"
+                value: "https://gh-proxy.net/https://raw.githubusercontent.com/SleepyHeeead/subconverter-config/master/remote-config/special/basic.ini"
               }
             ]
           }
         ]
       },
-      form: { sourceSubUrl: "", clientType: "", customBackend: this.getUrlParam() == "" ? "https://subapi.hashop.top" : this.getUrlParam(), shortType: "https://v1.mk/short", remoteConfig: "https://gh-proxy.net/https://raw.githubusercontent.com/netshowers/flying/refs/heads/main/myclash_nourltest.ini", excludeRemarks: "", includeRemarks: "", filename: "", rename: "", devid: "", interval: "", emoji: true, nodeList: false, extraset: false, tls13: false, udp: false, xudp: false, tfo: false, sort: false, expand: true, scv: false, fdn: false, appendType: false, insert: false, new_name: true, tpl: { surge: { doh: false }, clash: { doh: false }, singbox: { ipv6: false } } },
+      form: { sourceSubUrl: "", clientType: "", customBackend: this.getUrlParam() == "" ? "https://subapi.hashop.top" : this.getUrlParam(), shortType: "https://v1.mk/short", remoteConfig: "", excludeRemarks: "", includeRemarks: "", filename: "", rename: "", devid: "", interval: "", emoji: true, nodeList: false, extraset: false, tls13: false, udp: false, xudp: false, tfo: false, sort: false, expand: true, scv: false, fdn: false, appendType: false, insert: false, new_name: true, tpl: { surge: { doh: false }, clash: { doh: false }, singbox: { ipv6: false } } },
       loading1: false,
       loading2: false,
       loading3: false,
@@ -824,6 +824,10 @@ export default {
   },
   mounted() {
     this.form.clientType = "clash";
+   // 【重要修改】延时设置远程配置默认值，确保显示正确的标签
+    setTimeout(() => {
+      this.form.remoteConfig = "https://gh-proxy.net/https://raw.githubusercontent.com/netshowers/flying/refs/heads/main/myclash_nourltest.ini";
+    }, 100);
     this.getBackendVersion();
     this.anhei();
     let lightMedia = window.matchMedia('(prefers-color-scheme: light)');
